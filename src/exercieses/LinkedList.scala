@@ -1,0 +1,5 @@
+package exercieses
+
+object LinkedList {
+
+}
